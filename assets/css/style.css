@@ -1718,6 +1718,22 @@ textarea.form-control {
   border: 1px solid #a7f3d0;
 }
 
+.form-feedback.error {
+  display: block;
+  background-color: #fef2f2;
+  color: #991b1b;
+  border: 1px solid #fecaca;
+}
+
+/* Spam botları için gizli tuzak alanı */
+.form-honeypot {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
 /* ==========================================================================
    Alt Bilgi (Footer)
    ========================================================================== */

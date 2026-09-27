@@ -313,6 +313,10 @@
           </p>
 
           <form id="contactForm">
+            <div class="form-honeypot" aria-hidden="true">
+              <label for="website">Bu alanı boş bırakın</label>
+              <input type="text" id="website" name="_honey" tabindex="-1" autocomplete="off">
+            </div>
             <div class="form-row">
               <div class="form-group">
                 <label for="fullName" class="form-label">Ad Soyad *</label>
