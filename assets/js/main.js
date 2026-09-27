@@ -19,8 +19,10 @@ document.addEventListener('DOMContentLoaded', () => {
     const dropdownItems = navMenu.querySelectorAll('.nav-item-dropdown');
     dropdownItems.forEach((item) => {
       const link = item.querySelector('.nav-link');
-      if (link && window.innerWidth <= 768) {
+      if (link) {
         link.addEventListener('click', (e) => {
+          // Genişlik tıklama anında kontrol edilir (ekran döndürme / pencere boyutu değişimi)
+          if (window.innerWidth > 768) return;
           e.preventDefault();
           item.classList.toggle('active');
         });
