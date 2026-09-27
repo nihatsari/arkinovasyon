@@ -1,0 +1,9 @@
+# Geliştirme yardımcı dosyaları (sitede yayınlanmasın)
+scratch/
+
+# Mac zip artıkları ve sistem dosyaları
+__MACOSX/
+._*
+.DS_Store
+Thumbs.db
+desktop.ini
