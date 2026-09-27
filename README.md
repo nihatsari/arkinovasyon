@@ -36,8 +36,8 @@ Ark İnovasyon Bilişim Ticaret Ltd. Şti. resmi kurumsal web sitesi kaynak kodl
 3. `kurumsal-uyeliklerimiz.html` - Resmi Üyelikler (TOBB, ATO, KOSGEB, HİB, YASAD, TAKP) ve Açık Kaynak İş Birlikleri
 4. `neden-biz.html` - 10+ Yıllık Tecrübe, Şirket Değerleri, Neden Ark İnovasyon ve Yaklaşımımız
 
-### 2. Yeşil Dönüşüm ve Fon Raporlama Dikeyimiz
-5. `surdurulebilirlik-ve-yesil-donusum.html` - Yurt Dışı Fon Raporlama Seti (EBRD, IFC, AB Hibe Formatları)
+### 2. Yeşil Dönüşüm ve Raporlama Dikeyimiz
+5. `surdurulebilirlik-ve-yesil-donusum.html` - Yurt Dışı Raporlama Seti (EBRD, IFC, AB Hibe Formatları)
 6. `yatirim-fizibilite-ve-capex.html` - Yatırım Fizibilite Dosyası, Sermaye Harcamaları (CAPEX) Modellemesi, IRR/NPV Analizi
 7. `karbon-ayak-izi-ve-yesil-donusum.html` - Kurumsal Karbon Ayak İzi (ISO 14064, Kapsam 1-2-3), AB SKDM (CBAM) Uyum Yol Haritası
 
