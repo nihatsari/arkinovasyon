@@ -2055,6 +2055,20 @@ ol.content-list {
     flex-shrink: 0;
   }
 
+  /* Mobil menü: dokunma "hover" sayıldığında masaüstü mega menü kaydırması devreye girmesin */
+  .nav-menu {
+    white-space: normal;
+  }
+
+  .nav-dropdown.dropdown-wide,
+  .nav-item:hover .nav-dropdown.dropdown-wide {
+    left: auto;
+    width: 100%;
+    max-width: none;
+    transform: none;
+    padding: 12px;
+  }
+
   .membership-grid {
     grid-template-columns: 1fr;
   }
